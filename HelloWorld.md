@@ -2,6 +2,4 @@
 
 note one without specialty characters
 
-# heading one though
-
-## two hashes, all out of order
+Ok, this makes sense. Plenty of notation possible in this markdown file, but add the extras. 
